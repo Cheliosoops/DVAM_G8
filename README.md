@@ -68,7 +68,7 @@ protein_network_visualization/
 1. **克隆或下载项目**
 ```bash
 git clone https://github.com/Cheliosoops/DVAM_G8.git
-cd protein_network_visualization
+cd DVAM_G8
 ```
 
 2. **创建虚拟环境（推荐）**
