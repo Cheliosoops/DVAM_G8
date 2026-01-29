@@ -202,8 +202,7 @@ python code/pic7.py
 
 1. STRING database: https://string-db.org/
 2. Szklarczyk, D., et al. "The STRING database in 2023: protein-protein association networks and beyond." Nucleic Acids Research (2023).
-3. Borgatti, S.P., & Everett, M.G. "A Graph-Theoretic Perspective on Centrality." Social Networks (2006).
-4. Brandes, U., et al. "On variants of shortest-path betweenness centrality and their generic computation." Social Networks (2008).
+3. Ullanat, V., Jing, B., Sledzieski, S. et al. Learning the language of protein-protein interactions. Nat Commun (2026). https://doi.org/10.1038/s41467-025-67971-3.
 
 ## 📄 许可证
 
