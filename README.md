@@ -88,6 +88,8 @@ pip install -r requirements.txt
 # 10090.protein.links.v12.0.txt.gz
 # 10090.protein.links.detailed.v12.0.txt.gz
 # 10090.protein.info.v12.0.txt.gz
+# 10090.protein.aliases.v12.0.txt.gz
+...
 ```
 
 ## 🚀 使用方法
