@@ -1,6 +1,4 @@
-# DVAM_G8
-
-# 蛋白质相互作用网络可视化分析项目
+# DVAM_G8: 蛋白质相互作用网络可视化分析项目
 
 ## 📚 项目简介
 
@@ -69,7 +67,7 @@ protein_network_visualization/
 
 1. **克隆或下载项目**
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Cheliosoops/DVAM_G8.git
 cd protein_network_visualization
 ```
 
